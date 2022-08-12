@@ -113,7 +113,11 @@ h2 {
     align-items: center;
 }
 
-.card img {
+.card--img--box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #e5e7eb;
     background-color: #f9faf8;
     border: 3px solid #3882f6;
     border-radius: 16px;
@@ -121,9 +125,12 @@ h2 {
     height: 256px;
 }
 
+.card--img--box img {
+    max-width: 50%;
+}
+
 .card span {
     font-size: 18px;
-    
 }
 
 .quote--content {}
