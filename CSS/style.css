@@ -143,17 +143,22 @@ h2 {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    gap: 16px;
     padding: 64px 120px;
     background-color: #e5e7eb;
 }
 
 .quote--content p {
     font-size: 36px;
-    font-weight: 300;
+    font-weight: lighter;
     color: #1f2937;
 }
 
-.quote--content span {}
+.quote--content span {
+    font-size: 24px;
+    font-weight: bold;
+    align-self: end;
+}
 
 .call-to-action {}
 
