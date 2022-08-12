@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {}
+
+.logo {}
+
+.nav {}
+
+a {}
+
+.hero {}
+
+.hero--content {}
+
+.hero--content h1 {}
+
+.hero--content p {}
+
+.hero--content button {}
+
+.hero img {}
+
+.info--content {}
+
+.card {}
+
+.card img {}
+
+.card span {}
