@@ -9,7 +9,7 @@ This image is concept art officially recognized by Blizzard.
 Mechagnome icon by Cole Eastburn.
 
 COPY ATTRIBUTIONS:
-
+=============================================
 Header copy:
 https://wowpedia.fandom.com/wiki/Mechagnome_(playable)#Official_website
 
