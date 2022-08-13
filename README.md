@@ -8,6 +8,13 @@ Mechagnome Crest:
 This image is concept art officially recognized by Blizzard.
 Mechagnome icon by Cole Eastburn.
 
+Hyper-Organic-Light-Originator:
+
+https://wow.zamimg.com/uploads/screenshots/normal/900750-hyper-organic-light-originator.jpg
+
+Combat Analysis, Emergency Failsafe, Mastercraft, Skeleton Pinky:
+Taken in-game by Jay-SVG-Dev
+
 COPY ATTRIBUTIONS:
 =============================================
 Header copy:
